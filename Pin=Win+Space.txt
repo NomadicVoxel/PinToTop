@@ -1,0 +1,4 @@
+Toggle pinning a window to top with Win+Space. 
+To modify this, you'll have to edit line six. 
+
+https://www.autohotkey.com/
